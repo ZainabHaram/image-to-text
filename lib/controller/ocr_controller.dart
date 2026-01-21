@@ -1,5 +1,4 @@
 import 'dart:html' as html;
-// ignore: deprecated_member_use
 import 'dart:js_util' as js_util;
 import 'package:flutter/services.dart';
 import '../model/ocr_model.dart';
